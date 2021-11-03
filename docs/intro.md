@@ -8,7 +8,7 @@ sidebar_position: 1
 :::tip
 
 ### Informasjonssikkerhetsarbeidet er distribuert
-Team som har ansvaret for et område/tjeneste/produkt er **ansvarlig for sikkerheten**.. 
+Team som har ansvaret for et område/tjeneste/produkt er **ansvarlig for sikkerheten**. 
 
 [Trykk på denne linken ](sikkerhetsansvar/distribuertmodell.md) for å lese mer om hva den distribuerte sikkerhetsmodellen betyr. 
 
