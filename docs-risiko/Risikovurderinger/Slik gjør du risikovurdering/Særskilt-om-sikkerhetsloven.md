@@ -1,0 +1,1 @@
+# Særskilt om sikkerhetsloven
