@@ -20,45 +20,4 @@ Sammenhengene mellom disse punktene er illustrert under. Trykk på lenkene over 
   width="700"
 />
 
-<!---[Trykk på denne linken ](sikkerhetsansvar/distribuertmodell.md) for å lese mer om hva den distribuerte sikkerhetsmodellen betyr. -->
 
-<!---Nedover på siden kan du lese mer om hvilke aktiviteter som følger av at sikkerhetsansvaret ligger hos teamet. 
-
-
-:::tip Teamets sikkerhetsansvar og forventninger
-
-
-
-Teamet er ansvarlig for: 
-
-- Å identifisere og implementere nødvendige sikkerhetstiltak i egen løsning.
-- Innsikt i risiko i egen løsning.
-- Personvern i egen løsning. 
-- Å besitte nødvendig sikkerhetskompetanse.
-- Beredskap og hendelseshåndtering for egen løsning.
-
-Trykk her for å lese mer om hva som ligger i ansvaret, og hvilke konkrete forventninger som stilles til teamet. 
-
-:::
- 
-
-
-:::tip Sikkerhetsaktiviteter
-
-Som følge av sikkerhetsansvaret skal teamene utføre en del sikkerhetsrelaterte akvititeter. Dette omfatter:  
-
-- Gjennomføring og oppfølging av risikovurderinger
-- Gjennomføring av personvernvurderinger
-- Utarbeide beredskapsrutiner
-- Respondere på sikkerhetshendelser
-
-Trykk her for å lese mer om aktiviteten som skal utføres. 
-
-:::
-
-<<<<<<< HEAD
--->
-=======
-</p>
-</details>
->>>>>>> 2605c0b995eb902e7faa2838b4294eb019a23f98
