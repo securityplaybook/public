@@ -56,4 +56,9 @@ Trykk her for å lese mer om aktiviteten som skal utføres.
 
 :::
 
+<<<<<<< HEAD
 -->
+=======
+</p>
+</details>
+>>>>>>> 2605c0b995eb902e7faa2838b4294eb019a23f98
