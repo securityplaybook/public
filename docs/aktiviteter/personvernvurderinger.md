@@ -46,7 +46,7 @@ Begge disse vurderingene skal dokumenteres i mal og oversende til personvernombu
 
 
 
-<details><summary><b>Hva er en grunnleggende personvernvurdering (GPA), og når gjør jeg det?</b></summary>
+<details><summary><b>Gjennomføre grunnleggende personvernvurdering (GPA)</b></summary>
 	<p>
 	<b>Hva</b>: En GPA utføres for å avklare sentrale personvernspørsmål knyttet til en tjeneste. <br></br>
 	<b>Når</b>: GPAer utføres ved nyutvikling eller ved endringer av betydning i eksisterende løsning. <br></br>
@@ -54,7 +54,7 @@ Begge disse vurderingene skal dokumenteres i mal og oversende til personvernombu
 	</p>
 </details>
 
-<details><summary><b>Hva er en vurdering av personvernkonsekvensene (PVK), og når jeg det? </b></summary>
+<details><summary><b>Gjennomføre vurdering av personvernkonsekvensene (PVK)</b></summary>
 	<p>
 	<b>Hva</b>: Personvernkonsekvensvurdering (PVK) brukes for å sikre at personvernet til de registrerte i løsningen blir ivaretatt. <br></br>
 	<b>Når</b>: En personvernvurdering skal gjøres når: <br></br>

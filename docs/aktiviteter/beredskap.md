@@ -18,11 +18,34 @@ sidebar_position: 4
 
 :::info Teamets ansvar for hendelsesvurderinger og beredskap
 
-- Teamet skal vurdere hvilke hendelser (scenarioer) som kan inntreffe.
-- Teamet skal beskrive rutiner for å håndtere alvorlige hendelser.
-- Teamet skal gjennomføre øvelser.
+<details><summary>Teamet skal vurdere hvilke hendelser (scenarioer) som kan inntreffe</summary>
+	<p>
+	<b>Hva</b>: Teamet skal utarbeide scenarioanalyser over hendelser som kan påvirke egne løsninger <br></br>
+	<b>Når</b>: - <br></br>
+	<b>Hvordan</b>: -
+	</p>
+</details>
+
+<details><summary>Teamet skal beskrive rutiner for å håndtere alvorlige hendelser</summary>
+	<p>
+	<b>Hva</b>: Teamet skal utarbeide rutiner for å håndtere identifiserte scenarioer <br></br>
+	<b>Når</b>: - <br></br>
+	<b>Hvordan</b>: -
+	</p>
+</details>
+
+<details><summary>Teamet skal gjennomføre øvelser</summary>
+	<p>
+	<b>Hva</b>: - <br></br>
+	<b>Når</b>: - <br></br>
+	<b>Hvordan</b>: -
+	</p>
+</details>
+
 
 :::
+
+
 
 ### Utfyllende om ansvaret for beredskapsplaner
  
