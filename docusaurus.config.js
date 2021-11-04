@@ -10,7 +10,7 @@ const config = {
   tagline: 'Her finner du hjelp og støtte til å lage sikre løsninger',
   url: 'https://securityplaybook.github.io',
   baseUrl: '/public/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: '/img/favicon.ico',
   organizationName: 'securityplaybook', // Usually your GitHub org/user name.
