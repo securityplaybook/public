@@ -1,14 +1,23 @@
 ---
-sidebar_label: 'Oversikt ansvar'
-sidebar_position: 4
+sidebar_label: 'Introduksjon sikkerhetsaktiviteter'
+sidebar_position: 1
 ---
 
+# Sikkerhetsaktiviter
 
-# Oppsummering over ansvar og aktiviteter for teamet
+### 📝 Utdypende informasjon om aktivitetene
 
+:::note Linker til undersider
 
+- [Mer om risikovurderinger](risikoogsarbarhet)
+- [Mer om personvernvurderinger](personvernvurderinger)
+- [Mer om beredskap](beredskap)
+- [Mer om hendelseshåndtering](sikkerhetshendelser)
 
-## Markdown 
+:::
+
+### 🔍 Oversikt over sikkerhetsaktiviteter
+
 Under følger en oversikt over ansvarsoppgaver som tilfaller teamet...
 
 | Aktivitet  					                        | Hva skal gjøres? 																					| Hva skal dokumenteres?                                           | Hvor?                                                                    | Hvordan?                                                                     | Når?                                                                                                 | Eksempler                    | Ved spørsmål       |
@@ -19,3 +28,69 @@ Under følger en oversikt over ansvarsoppgaver som tilfaller teamet...
 | Vurdere ulike scenarier og lage oppfølgingsrutiner	|               Vurdere potensielle hendelser som kan inntreffe og som bør følges opp              |              Beskriv hendelse med oppfølgingsrutine              |                                                                          |                                                                              |                                                                                                      |                              |                    |
 | Øve på oppfølgingsrutiner								|                                     Øve på oppfølgingsrutine                                     |  Resultat av og konklsujon av test av hvilke oppfølgingsrutiner  |                                                                          |                                                                              |                                                                                                      |                              |                    |
 | Reagere og følge opp sikkerhetshendelser				|  Uforutsette hendelser i produkt tjeneste,  eller ved varsling om potensiell trussel følge opp   |             Viktige vurderinger, tiltak beslutninger.            |              I applikasjonen TryggNok og melde fra til ISOC              |                                                                              |                                                                                                      |                              |                    |
+
+<!--- 
+### ⚠️ Risiko- og sårbarhetsvurderinger
+<details><summary>Trykk for å lese hva <b>risikoansvaret</b> betyr for teamet </summary>
+<p>
+
+Det forventes at:
+
+- Teamet utfører risikovurderinger ved hjelp av TryggNok-applikasjonen
+- Teamet dokumenterer viktige sikkerhetsbeslutninger
+- Teamet eskalerer restrisiko dersom denne er utenfor risikoaksept
+- Teamet følger opp tiltak for å nå akseptabel restrisiko
+
+Trykk på denne linken for å lese mer: [Risiko- og sårbarhetsvurderinger](sikkerhetsansvar/risikoogsarbarhet.md).
+
+
+</p>
+</details>
+
+  
+
+### 🔏 Teamet skal gjennomføre personvernvurderinger
+
+<details><summary>Trykk for å lese hva <b>personvernansvaret</b> betyr for teamet </summary>
+<p>
+
+- Teamet utfører Grunnleggende personvernvurdering (GPA) og vurdering av Personvernkonsekvenser (PVK)
+- Vurderingene skal dokumenteres i mal og oversende til personvernombudet.
+
+Trykk på denne linken for å lese mer: [Personvernvurderinger](sikkerhetsansvar/personvernvurderinger.md).
+
+</p>
+</details>
+
+
+
+### 📝 Teamet skal vurdere mulige  hendelser (scenarioer)  og lage beredskapsrutiner
+
+<details><summary>Trykk for å lese hva <b>beredskapsansvaret</b> betyr for teamet </summary>
+<p>
+
+- Teamet skal vurdere hvilke hendelser (scenarioer) som kan inntreffe.
+- Teamet skal beskrive rutiner for å håndtere alvorlige hendelser.
+- Teamet skal gjennomføre øvelser.
+
+Trykk på denne linken for å lese mer: [beredskap](sikkerhetsansvar/beredskap.md).
+
+</p>
+</details>
+
+
+
+### 🔥 Teamet skal reagere på og følge opp sikkerhetshendelser.
+
+
+<details><summary>Trykk for å lese hva <b>ansvaret for hendelseshåndtering</b> betyr for teamet </summary>
+<p>
+
+- Teamet skal varsle ISOC om sikkerhetshendelser i egen løsning.
+- Teamet skal dokumentere og logge sikkerhetshendelser.
+
+Trykk på denne linken for å lese mer: [Sikkerhetshendelser](sikkerhetsansvar/sikkerhetshendelser.md).
+
+</p>
+</details>
+--->

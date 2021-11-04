@@ -15,14 +15,15 @@ sidebar_position: 1
 
 :::info Kortversjonen
 
-I Nav har teamene ansvaret for å ivareta sikkerheten i løsningene de forvalter. Dette ansvaret har de fått siden de kjenner egen løsning best, og er best skikket til å vurdere risiko og sikkerhet i egen tjeneste. Ansvaret innen sikkerhet omfatter: 
+I Nav har teamene ansvaret for å ivareta sikkerheten i løsningene de forvalter. Dette ansvaret har de fått siden de kjenner egen løsning best, og er best skikket til å vurdere risiko og sikkerhet i egen tjeneste. Teamet har ansvar for: 
 
-- Gjennomføring og oppfølging av risikovurderinger
-- Gjennomføring av personvernvurderinger
-- Utarbeide beredskapsrutiner
-- Respondere på sikkerhetshendelser
+- Å identifisere og implementere nødvendige sikkerhetstiltak i egen løsning.
+- Innsikt i risiko i egen løsning.
+- Personvern i egen løsning. 
+- Å besitte nødvendig sikkerhetskompetanse.
+- Beredskap og hendelseshåndtering for egen løsning.
 
-For å hjelpe teamene med å ivareta dette ansvaret har vi utviklet denne Security Playbook'en. 
+[**Trykk her**](sikkerhetsansvar/forventninger.md) for å lese hvordan disse punktene er brutt ned i _forventninger_ til teamets sikkerhetspraksis.
 
 :::
 
@@ -34,13 +35,6 @@ Gitt dette, må også teamene ta ansvar for informasjonssikkerheten.  Det er jo 
 
 En naturlig konsekvens av at vi arbeider i autonome team er at vi gjør ting ulikt. På mange områder er dette helt uproblematisk. Men innenfor sikkerhet og risikostyring er det noen vi noen nøkkelutfordringer. Fordi risiko, sårbarheter akkumuleres gjennom infrastruktur, plattformer, løsninger og verdikjeder må arbeidet med informasjonssikkerhet ha noen fellesnevnere på tvers i NAV.  Det er et behov for å i større grad samordne måten vi jobber med sikkerhet og risiko på tvers av team og har noen fellesnevnerne som gjør at områder/team og NAV kan forstå hvordan risiko og sårbarhet virker mellom områder/team og hva det betyr for NAV som helhet.
 
-Security Playbook tar utgangspunkt i at informasjonssikkerhetsansvaret er distribuert, - definerer hva team skal gjøre for å ivareta ansvaret for sitt produkt/tjeneste.  Videre hvordan og hvor dette skal dokumenteres. 
-
-Informasjonssikkerhetsansvaret omfatter følgende aktiviteter og problemstillinger:
-- Risiko- og sårbarhetsvurdering (ROS)
-- Grunnleggende personvernavklaring (GPA)
-- Personvernavklaring (PVK)
-- Risikoaksept og beredskapsplaner
-
+**På neste side kan du lese mer om hvilke forventninger som stilles til teamene basert på den distribuerte modellen og teamets ansvar**
 
 

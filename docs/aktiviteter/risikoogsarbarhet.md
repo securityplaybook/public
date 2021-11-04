@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Ansvar for risiko- og sårbarhetsvurdering'
+sidebar_label: 'Risiko- og sårbarhetsvurdering'
 sidebar_position: 2
 ---
 
@@ -8,7 +8,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 
-# Ansvar for risiko- og sårbarhetsvurdering
+# Risiko- og sårbarhetsvurderinger
 
 <img
   src={require('/img/risiko.png').default}
@@ -18,30 +18,30 @@ import TabItem from '@theme/TabItem';
 
 ### Kortversjonen
 
-:::info Risikobasert tilnærming og teamets ansvar
+:::info Risikobasert tilnærming
 
-NAV har en risikobasert styring av sikkerhet. Det betyr at områder/team skal gjøre vurderinger av risikoen knyttet til et produkt/tjeneste og iverksette adekvate tiltak for slik at risikoen og sårbarheten har et akseptabelt nivå.
+NAV har en risikobasert styring av sikkerhet. Det betyr at områder/team skal gjøre vurderinger av risikoen knyttet til sine produkter/tjenester, og iverksette tiltak slik at risikoen har et akseptabelt nivå.
 
 Security Playbook har en egen sidesamling som dekker risikostyring og risikovurdering. Trykk her for å se flere detaljer: [Risikostyring og -vurderinger](/docs-risiko/risiko-intro)
 
 :::
 
 
-<details><summary><b>Teamet utfører risikovurderinger ved hjelp av TryggNok-applikasjonen</b></summary>
+<details><summary><b>Gjennomføring av risikovurderinger</b></summary>
 	<p>
 	<b>Hva</b>: Teamene skal gjennomføre risikovurderinger I TryggNok-applikasjonen. Dette skal gjøres ved endringer i og rundt  produktet/tjenesten. <br></br>
 	<b>Hvordan</b>: Se veiledning til TryggNok-applikasjonen i denne lenken. Se veiledning til risikovurderinger på siden for Risikovurderinger. Se eksempelvurdering her. Ved spørsmål, ta kontakt med Team Tillit her <br></br>
 	</p>
 </details>
 
-<details><summary><b>Teamet følger opp tiltak for å nå akseptabel restrisiko</b></summary>
+<details><summary><b>Innføre tiltak for å nå akseptabel risiko</b></summary>
 	<p>
 	<b>Hva</b>: Teamene skal gjennomføre risikovurderinger I TryggNok-applikasjonen. Dette skal gjøres ved endringer i og rundt  produktet/tjenesten. <br></br>
 	<b>Hvordan</b>: Se veiledning til TryggNok-applikasjonen i denne lenken. Se veiledning til risikovurderinger på siden for Risikovurderinger. Se eksempelvurdering her. Ved spørsmål, ta kontakt med Team Tillit her <br></br>
 	</p>
 </details>
 
-<details><summary><b>Teamet eskalerer restrisiko dersom denne er utenfor risikoaksept</b></summary>
+<details><summary><b>Eskalere risiko </b></summary>
 	<p>
 	<b>Hvor</b>: <br></br>
 	<b>Når</b>: <br></br>
@@ -50,7 +50,7 @@ Security Playbook har en egen sidesamling som dekker risikostyring og risikovurd
 	</p>
 </details>
 
-<details><summary><b>Teamet dokumenterer viktige sikkerhetsbeslutninger</b></summary>
+<details><summary><b>Dokumentere viktige sikkerhetsbeslutninger</b></summary>
 	<p>
 	<b>Hva</b>: <br></br>
 	<b>Hvor</b>: <br></br>
