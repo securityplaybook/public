@@ -20,4 +20,4 @@ Sammenhengene mellom disse punktene er illustrert under. Trykk på lenkene over 
   width="700"
 />
 
-
+.
