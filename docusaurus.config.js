@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Velkommen til Security Playbook',
+  title: 'DEMOVERSJON: Security Playbook',
   tagline: 'Her finner du hjelp og støtte til å lage sikre løsninger',
   url: 'https://securityplaybook.github.io',
   baseUrl: '/public/',
@@ -96,14 +96,14 @@ const config = {
               },
               {
                 to: '/docs-beste-praksis/beste-praksis-intro',    // ./docs-hvorfor-sikkerhet/Intro.md
-                label: 'Veiledning: Teknisk sikkerhet',
+                label: 'IKKE KLAR: Veiledning: Teknisk sikkerhet',
                 position: 'left',
                 activeBaseRegex: `/docs-risiko/`,
               },			  
-          {to: '/blog', label: 'Kontaktliste sikkerhet', position: 'left'},
+          {to: '/blog', label: 'IKKE KLAR: Kontaktliste sikkerhet', position: 'left'},
               {
                 to: '/docs-risiko/risiko-intro',    // ./docs-hvorfor-sikkerhet/Intro.md
-                label: 'Risiko (til opprydding)',
+                label: 'IKKE KLAR: Risiko (til opprydding)',
                 position: 'left',
                 activeBaseRegex: `/docs-risiko/`,
               },

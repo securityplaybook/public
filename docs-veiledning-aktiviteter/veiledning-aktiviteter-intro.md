@@ -1,15 +1,15 @@
 ---
-sidebar_label: 'Sikkerhetsaktiviteter'
+sidebar_label: 'Oversikt sikkerhetsaktiviteter'
 sidebar_position: 1
 ---
 
 # Teamets sikkerhetsaktiviteter
 
-:::warning Ansvaret for informasjonssikkerhet
+:::warning Ansvar og aktiviteter
 
 Informasjonssikkerhetsarbeidet er distribuert. Det betyr at team som har ansvaret for et område/tjeneste/produkt er ansvarlig for informasjonssikkerheten. [Du kan lese mer om ansvaret her ](/docs/sikkerhetsansvar/distribuertmodell)
 
-Som en følge av det distribuerte sikkerhetsansvaret skal teamet utføre følgende sikkerhetsaktiviteter:
+Som følge av det distribuerte sikkerhetsansvaret skal teamet utføre følgende sikkerhetsaktiviteter:
 
 - Gjennomføre risiko- og sårbarhetsvurderinger
 - Gjennomføre Grunnleggende personvernvurdering (GPA) og vurdering av Personvernkonsekvenser (PVK)
