@@ -46,9 +46,9 @@ const config = {
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'docs-hvorfor-sikkerhet',
-        path: 'docs-hvorfor-sikkerhet',
-        routeBasePath: 'docs-hvorfor-sikkerhet',
+        id: 'docs-veiledning-aktiviteter',
+        path: 'docs-veiledning-aktiviteter',
+        routeBasePath: 'docs-veiledning-aktiviteter',
         sidebarPath: require.resolve('./sidebars.js'),
       }, 
     ],
@@ -89,24 +89,24 @@ const config = {
                 activeBaseRegex: `/docs/`,
               },
               {
-                to: '/docs-hvorfor-sikkerhet/hvorfor-sikkerhet',    // ./docs-hvorfor-sikkerhet/Intro.md
-                label: 'Hvorfor sikkerhet',
+                to: '/docs-veiledning-aktiviteter/veiledning-aktiviteter-intro',    // ./docs-hvorfor-sikkerhet/Intro.md
+                label: 'Veiledning: Sikkerhetsaktiviteter',
                 position: 'left',
-                activeBaseRegex: `/docs-hvorfor-sikkerhet/`,
-              },
-              {
-                to: '/docs-risiko/risiko-intro',    // ./docs-hvorfor-sikkerhet/Intro.md
-                label: 'Risiko',
-                position: 'left',
-                activeBaseRegex: `/docs-risiko/`,
+                activeBaseRegex: `/docs-veiledning-aktiviteter/`,
               },
               {
                 to: '/docs-beste-praksis/beste-praksis-intro',    // ./docs-hvorfor-sikkerhet/Intro.md
-                label: 'Beste praksis',
+                label: 'Veiledning: Teknisk sikkerhet',
+                position: 'left',
+                activeBaseRegex: `/docs-risiko/`,
+              },			  
+          {to: '/blog', label: 'Kontaktliste sikkerhet', position: 'left'},
+              {
+                to: '/docs-risiko/risiko-intro',    // ./docs-hvorfor-sikkerhet/Intro.md
+                label: 'Risiko (til opprydding)',
                 position: 'left',
                 activeBaseRegex: `/docs-risiko/`,
               },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',

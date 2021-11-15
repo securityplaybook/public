@@ -90,10 +90,9 @@ Security Playbook har en egen sidesamling som dekker risikostyring og risikovurd
 
 ### Mer informasjon om risiko- og sårbarhetsvurderinger
 
+NAV har en risikobasert styring av sikkerhet.  Det betyr at områder/team skal gjøre vurderinger av risikoen knyttet til et produkt/tjeneste og iverksette adekvate tiltak slik at risiko og sårbarhet har et akseptabelt nivå.
+
 Hensikten med en risiko/-sårbarhetsvurdering er å vurdere produktet/tjenestens styrker/svakhet fra flere perspektiv i den hensikt å sikre at produktets egenskaper tilfredsstiller kvalitet, tilgjengelighet og lovkrav. For å sikre at produktet tilfredsstiller de ulike kvalitetsperspektiv iverksettes risikoreduserende tiltak, aksept av dokumentert risiko med eller uten beredskapsplaner. For en løsning som er satt i drift så har eier akseptert risikoen, selv om en ikke har vurdert risikoen.
 
-I NAV er det to styringssystemer i forhold til risiko. Et går på systemsikkerhet etablert av sikkerhetsseksjonen, og det andre på personvern som styres fra kunnskapsavdelingen. I utgangspunktet er det de samme risikohendelsene som kan inntreffe. For eksempel at noen får tak i brukernavn og passord til en medarbeider og utnytter dette til ondsinnede handlinger. I forhold til systemsikkerhet vurderes konsekvensene for NAV, det være seg operasjonelle, økonomiske, eller regulatoriske konsekvenser, osv. Men for personvern vurderes konsekvensene for enkeltperson, for eksempel personopplysninger på avveie, forsinket saksbehandling, feil vedtak, osv. 
-
-Risikovurdering defineres av Standard Norge i NS 5814 som: "… en samlet prosess som består av planlegging, risikoanalyse og risikoevaluering. Risikovurderingens hensikt er å identifisere farer og uønskede hendelser, analysere og evaluere risiko, og identifisere tiltak som kan redusere risikoen."  og er et hjelpemiddel for å kunne ta beslutninger om tiltak eller valg av løsninger for å forebygge risiko. 
-
-Personvernkonsekvensvurdering er en risikovurdering som vurderer risiko ift. personvern i løsningen. Dette er imidlertid bare ett av flere risikovurderingsperspektiver. Andre perspektiver er for eksempel trusselbildet knyttet til de teknologiske komponentene som løsningen baseres på; interne mikrostjenester som er bygget i NAV; samt driftsmessige forhold. 
+Risikovurdering defineres av Standard Norge i NS 5814 som: "… en samlet prosess som består av planlegging, risikoanalyse og risikoevaluering. Risikovurderingens hensikt er å identifisere farer og uønskede hendelser, analysere og evaluere risiko, og identifisere tiltak som kan redusere risikoen." og er et hjelpemiddel for å kunne ta beslutninger om tiltak eller valg av løsninger for å forebygge risiko.
+ 
