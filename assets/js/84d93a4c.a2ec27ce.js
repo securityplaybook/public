@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpublic=self.webpackChunkpublic||[]).push([[9359],{9154:function(t){t.exports=JSON.parse('{"allTagsPath":"/public/blog/tags","slug":"/public/blog/tags/kontaktliste","name":"kontaktliste","count":2,"permalink":"/public/blog/tags/kontaktliste"}')}}]);

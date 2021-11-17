@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpublic=self.webpackChunkpublic||[]).push([[5914],{6983:function(s){s.exports=JSON.parse('{"allTagsPath":"/public/blog/tags","slug":"/public/blog/tags/sikkerhetsfunksjoner","name":"sikkerhetsfunksjoner","count":1,"permalink":"/public/blog/tags/sikkerhetsfunksjoner"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpublic=self.webpackChunkpublic||[]).push([[2535],{5641:function(t){t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Kontaktliste ved sikkerhetsutfordringer","permalink":"/public/blog/Kontaktliste"},{"title":"Kontaktliste for utviklere","permalink":"/public/blog/Kontaktliste for utviklere"}]}')}}]);

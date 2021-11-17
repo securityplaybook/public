@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpublic=self.webpackChunkpublic||[]).push([[5557],{3138:function(e){e.exports=JSON.parse('{"allTagsPath":"/public/blog/tags","slug":"/public/blog/tags/sikkerhet","name":"sikkerhet","count":1,"permalink":"/public/blog/tags/sikkerhet"}')}}]);

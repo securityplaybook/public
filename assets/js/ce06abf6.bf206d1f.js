@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpublic=self.webpackChunkpublic||[]).push([[3118],{8842:function(l){l.exports=JSON.parse('{"allTagsPath":"/public/blog/tags","slug":"/public/blog/tags/utviklere","name":"utviklere","count":1,"permalink":"/public/blog/tags/utviklere"}')}}]);
