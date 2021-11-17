@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Forventninger'
+sidebar_label: '⭐ Forventninger'
 sidebar_position: 2
 ---
 

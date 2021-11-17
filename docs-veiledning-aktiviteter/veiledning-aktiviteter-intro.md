@@ -11,9 +11,9 @@ Informasjonssikkerhetsarbeidet er distribuert. Det betyr at team som har ansvare
 
 Som følge av det distribuerte sikkerhetsansvaret skal teamet utføre følgende sikkerhetsaktiviteter:
 
-- Gjennomføre risiko- og sårbarhetsvurderinger
-- Gjennomføre Grunnleggende personvernvurdering (GPA) og vurdering av Personvernkonsekvenser (PVK)
-- Vurdere mulige alvorlige hendelser hendelser(scenarier), lage oppfølgingsrutiner og øve på disse
+- Gjennomføre risikovurderinger
+- Gjennomføre Grunnleggende personvernavklaring (GPA) og Vurdering av personvernkonsekvenser (PVK)
+- Vurdere mulige alvorlige hendelser hendelser(scenarier), lage oppfølgingsrutiner, og øve på disse
 - Reagere på og følge opp sikkerhetshendelser 
 
 :::

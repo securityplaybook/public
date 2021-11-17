@@ -8,7 +8,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 
-# Risiko- og sårbarhetsvurderinger
+# Risikovurderinger
 
 <img
   src={require('/img/risiko.png').default}
@@ -20,7 +20,7 @@ import TabItem from '@theme/TabItem';
 
 :::info Risikobasert tilnærming
 
-NAV har en risikobasert styring av sikkerhet. Det betyr at områder/team skal gjøre vurderinger av risikoen knyttet til sine produkter/tjenester, og iverksette tiltak slik at risikoen har et akseptabelt nivå.
+NAV har en risikobasert tilnærming til sikkerhet. Det betyr at områder/team skal gjøre vurderinger av risikoen knyttet til sine produkter/tjenester, og iverksette tiltak slik at risikoen har et akseptabelt nivå.
 
 Security Playbook har en egen sidesamling som dekker risikostyring og risikovurdering. Trykk her for å se flere detaljer: [Risikostyring og -vurderinger](/docs-risiko/risiko-intro)
 

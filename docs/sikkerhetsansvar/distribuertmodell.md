@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Den distribuerte sikkerhetsmodellen'
+sidebar_label: '⭐ Den distribuerte sikkerhetsmodellen'
 sidebar_position: 1
 ---
 
@@ -17,11 +17,13 @@ sidebar_position: 1
 
 I Nav har teamene ansvaret for å ivareta sikkerheten i løsningene de forvalter. Dette ansvaret har de fått siden de kjenner egen løsning best, og er best skikket til å vurdere risiko og sikkerhet i egen tjeneste. Teamet har ansvar for: 
 
-- Å identifisere og implementere nødvendige sikkerhetstiltak i egen løsning.
-- Innsikt i risiko i egen løsning.
-- Personvern i egen løsning. 
-- Å besitte nødvendig sikkerhetskompetanse.
-- Beredskap og hendelseshåndtering for egen løsning.
+- Sette seg inn i og etterleve sikkerhetsansvaret i teamets ansvarsområder
+- Skaffe innsikt i sikkerhets- og personvernrisiko i egen løsning.
+- Gjøre seg kjent med og etterleve personvernmål i egen løsning.
+- Definere behov for sikkerhetskompetanse og rådføre seg med aktuelle fagmiljø.
+- Identifisere og gjennomføre nødvendige sikringstiltak.
+- Oppdage og håndtere sikkerhetshendelser og avvik i egen løsning.
+- Planlegge, dokumentere og øve beredskap og krisehåndtering
 
 [**Trykk her**](sikkerhetsansvar/forventninger.md) for å lese hvordan disse punktene er brutt ned i _forventninger_ til teamets sikkerhetspraksis.
 

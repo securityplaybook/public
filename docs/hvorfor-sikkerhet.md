@@ -1,6 +1,11 @@
+---
+sidebar_label: 'IKKE KLAR - Hvorfor tenke sikkerhet'
+sidebar_position: 3
+---
+
 # Hvorfor er sikkerhet viktig?
 
-🏆 NAV har en viktig funksjon i Norge. Vi skal bidra til å skape et inkluderende samfunn, et inkluderende arbeidsliv og et velfungerende arbeidsmarked. Derfor er det mange grunner til at sikkerhet er viktig i NAV.  Under har vi listet noen momenter.
+NAV har en viktig funksjon i Norge. Vi skal bidra til å skape et inkluderende samfunn, et inkluderende arbeidsliv og et velfungerende arbeidsmarked. Derfor er det mange grunner til at sikkerhet er viktig i NAV.  Under har vi listet noen momenter.
 
 
 - NAV har ansvar for å ivareta kritiske funksjoner for samfunnet. Vi må sikre at tjenestene våre er tilgjengelige for ansatte og publikum, og at riktige ytelser mottas av den norske befolkning til rett tid. 
@@ -25,4 +30,3 @@
 
 - Utover dette er etaten også underlagt sikkerhetsloven med tilhørende forskrifter, og må forholde seg til enkeltvedtak om sikring av objekter og informasjonssystemer som understøtter grunnleggende nasjonale funksjoner.
 
-🏆 🔒
