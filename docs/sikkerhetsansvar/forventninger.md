@@ -5,6 +5,9 @@ sidebar_position: 2
 
 # Forventninger til teamets sikkerhetspraksis
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 <!--- <details><summary><b>Ansvar: Å identifisere og implementere nødvendige sikkerhetstiltak i egen løsning.</b></summary>
 	<p>
 	<b>Forventninger</b>: Teamene skal gjennomføre risikovurderinger I TryggNok-applikasjonen. Dette skal gjøres ved endringer i og rundt  produktet/tjenesten. <br></br>
@@ -12,9 +15,11 @@ sidebar_position: 2
 	</p>
 </details> --->
 
-### Identifisere og implementere nødvendige sikkerhetstiltak
+Siden teamets sikkerhetsansvar er omfattende har vi tydeliggjort ansvaret i form av forventningene som presenteres under. 
 
-:::note Forventninger til teamet:
+### Teamet skal identifisere og implementere nødvendige sikringstiltak
+
+:::note Det forventes derfor at teamet:
 
 <img
   src={require('/img/team2.png').default}
@@ -22,12 +27,30 @@ sidebar_position: 2
   width="200"
 />
 
-- Teamet har et kontinuerlig fokus på sikkerheten i egen løsning
+- Har et kontinuerlig fokus på sikkerheten i egen løsning
 - Bidrar med kontinuerlig forbedring av sikkerheten i eget og andres team gjennom å dele erfaringer og løsninger
 - Benytter gjenbrukbare sikkerhetsverktøy/ funksjonalitet
 - Automation first - utrede mulighet for å gjøre sikkerhetsarbeid automatisk.
 
+<!---
+<Tabs>
+  <TabItem value="Har et kontinuerlig fokus på sikkerheten" label="Har et kontinuerlig fokus på sikkerheten" default>
+    This is an apple 🍎
+  </TabItem>
+  <TabItem value="orange" label="Orange">
+    This is an orange 🍊
+  </TabItem>
+  <TabItem value="banana" label="Banana">
+    This is a banana 🍌
+  </TabItem>
+</Tabs>
+--->
+
 :::
+
+
+
+
 
 ### Innsikt i risiko i egen løsning
 

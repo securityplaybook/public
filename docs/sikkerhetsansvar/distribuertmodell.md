@@ -1,9 +1,9 @@
 ---
-sidebar_label: '⭐ Den distribuerte sikkerhetsmodellen'
+sidebar_label: '⭐ Oversikt ansvarsområder'
 sidebar_position: 1
 ---
 
-# Teamet er ansvarlig for sikkerheten i egen løsning
+# Teamet er ansvarlig for sikkerheten i egne løsninger
 
 <img
   src={require('/img/team2.png').default}
@@ -11,23 +11,117 @@ sidebar_position: 1
   width="500"
 />
 
-### Kortversjonen
+### Oversikt over teamets ansvar
 
-:::info Kortversjonen
+<!--- 
+:::info Som ansvarlig for sikkerheten i egne løsninger, har teamet ansvaret for å:
 
 I Nav har teamene ansvaret for å ivareta sikkerheten i løsningene de forvalter. Dette ansvaret har de fått siden de kjenner egen løsning best, og er best skikket til å vurdere risiko og sikkerhet i egen tjeneste. Teamet har ansvar for: 
 
-- Sette seg inn i og etterleve sikkerhetsansvaret i teamets ansvarsområder
-- Skaffe innsikt i sikkerhets- og personvernrisiko i egen løsning.
-- Gjøre seg kjent med og etterleve personvernmål i egen løsning.
-- Definere behov for sikkerhetskompetanse og rådføre seg med aktuelle fagmiljø.
-- Identifisere og gjennomføre nødvendige sikringstiltak.
-- Oppdage og håndtere sikkerhetshendelser og avvik i egen løsning.
-- Planlegge, dokumentere og øve beredskap og krisehåndtering
+Teamet er ansvarlig for å utvikle og forvalte egne produkter og tjenester slik at NAVs overordnede mål og akseptkriterier for risiko og etterlevelse kan oppfylles. Sikkerheten i produktene er en viktig og vesentlig del av en større helhet der risikohåndtering og sikkerhetsnivå evalueres på tvers av verdikjeder og ansvarsområder
+
+
+Som ansvarlig for sikkerheten i egne løsninger, har teamet ansvaret for å:
+
+- **Sette seg inn og etterleve relevante sikkerhetsmål og eget sikkerhetsansvar**
+- Ha innsikt i risiko i egne løsninger.
+- Forstå hvordan sikkerheten i egne løsning blir påvirket av, og påvirker, andre team og deres løsninger 
+- Identifisere og etablere nødvendige sikkerhetstiltak
+- Vurdere hva som er nødvendig sikkerhetskompetanse i eget team, og sikre tilgang til relevant kompetanse.
+- Oppdage og håndtere sikkerhetstruende hendelser, og rapportere avvik.
+- Planlegge, dokumentere og øve på beredskap og hendelseshåndtering.
 
 [**Trykk her**](sikkerhetsansvar/forventninger.md) for å lese hvordan disse punktene er brutt ned i _forventninger_ til teamets sikkerhetspraksis.
 
 :::
+
+--->
+
+:::info Som ansvarlig for sikkerheten i egne løsninger, har teamet ansvaret for å:
+
+
+<details>
+  <summary>
+	Ha innsikt i risiko i egne løsninger.
+  </summary>
+  <div>
+	Teamet skal løpende sørge for å ha innsikt i risiko i løsningene de selv forvalter. Dette innebærer å gjennomføre risikovurderinger i henhold til forventninger som stilles til teamet innen risikostyring, og minimum èn gang i tertialet. 
+	<br></br>
+	<br></br>
+	- Trykk her for å lese mer om forventningene som stilles til teamet innen risikostyring. 
+	<br></br>
+	- Trykk her for veiledning i utførelsen av risikovurderinger. 
+  </div>
+</details>
+
+<details>
+  <summary>
+	Forstå hvordan sikkerheten i egen løsning blir påvirket av, og påvirker, andre løsninger 
+  </summary>
+  <div>
+	Teamet har et ansvar for å forstå hvordan egne valg kan påvirke sikkerheten i andre løsninger. Teamet har også et ansvar for å forstå risiko man påtar seg ved å ta i bruk andre tjenester. 
+	<br></br>
+	<br></br>
+	Trykk her for å lese hvilke forventninger som stilles til teamet knyttet til å forstå risiko rundt egen løsning. 
+  </div>
+</details>
+
+<details>
+  <summary>
+	Identifisere og etablere nødvendige sikkerhetstiltak 
+  </summary>
+  <div>
+	Basert på bl.a. risikovurderinger er teamet ansvarlige for å vurdere hvilke sikkerhetstiltak som skal implementeres. Dette gjelder både rutiner i teamet, men også tekniske sikkerhetstiltak. 
+	<br></br>
+	<br></br>
+	Trykk her for å lese mer om forventningene som stilles til teamet på området.
+	Trykk her for å lese mer om beste praksis innen teknisk sikring av løsningen. 
+  </div>
+</details>
+
+<details>
+  <summary>
+	Vurdere hva som er nødvendig sikkerhetskompetanse i eget team, og sikre tilgang til relevant kompetanse 
+  </summary>
+  <div>
+	Teamet er ansvarlige for å vurdere hva som trengs av sikkerhetskompetanse for en sikker forvaltning av egne løsninger. Dette kan være krevende å vite, så det er derfor viktig å involvere relevante fagmiljøer dersom man er usikker. 
+	<br></br>
+	<br></br>
+	Trykk her for å lese mer om hvilke forventninger som stilles til teamet innen sikkerhetskompetanse. 
+	Trykk her for å se en kontaktliste innen sikkerhet.
+  </div>
+</details>
+
+<details>
+  <summary>
+	Planlegge, dokumentere og øve på beredskap og hendelseshåndtering 
+  </summary>
+  <div>
+	Teamet er ansvarlig for å vurdere potensielle scenarioer og sikkerhetstruende hendelser som kan oppstå, og dokumentere hvordan disse skal håndteres. Det er også teamets ansvar å øve på beredskapsplaner.
+	<br></br>
+	<br></br>
+	Trykk her for å lese mer om hvilke forventninger som stilles til teamet innen beredskap. 
+	Trykk her for å lese en praktisk veiledning til beredskapsplaner.	
+  </div>
+</details>
+
+<details>
+  <summary>
+	Oppdage og håndtere sikkerhetstruende hendelser, og rapportere avvik 
+  </summary>
+  <div>
+	Content
+  </div>
+</details>
+
+
+
+
+[**Trykk her**](sikkerhetsansvar/forventninger.md) for å lese hvordan disse punktene er brutt ned i _forventninger_ til teamets sikkerhetspraksis.
+
+:::
+
+
 
 ### Utfyllende om den distribuerte sikkerhetsmodellen
 
