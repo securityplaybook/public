@@ -3,7 +3,7 @@ sidebar_label: '⭐ Forventninger'
 sidebar_position: 2
 ---
 
-# Forventninger til teamets sikkerhetspraksis
+# [Utdatert per 25.11] Forventninger til teamets sikkerhetspraksis
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';

@@ -11,7 +11,7 @@ sidebar_position: 1
   width="500"
 />
 
-### Oversikt over teamets ansvar
+## Oversikt over teamets ansvar
 
 <!--- 
 :::info Som ansvarlig for sikkerheten i egne løsninger, har teamet ansvaret for å:
@@ -37,7 +37,92 @@ Som ansvarlig for sikkerheten i egne løsninger, har teamet ansvaret for å:
 
 --->
 
+### Alternativ 1
+
 :::info Som ansvarlig for sikkerheten i egne løsninger, har teamet ansvaret for å:
+
+
+<details>
+  <summary>
+	Kartlegge risiko og sikkerhetsbehov i egne løsninger, og forstå gjensidig påvirkning med andre løsninger i Nav // <br></br>  
+	<i>Alternativt:</i> Opparbeide og forvalte forståelse om egen løsning og hvordan denne påvirker, og påvirkes av, andre forhold, tjenester og leveranser
+  </summary>
+  <div>
+	Teamet er ansvarlige for å løpende ha innsikt i risikobildet i egen løsning, og håndteringen av risiko som avdekkes. Teamet er også ansvarlig for å kartlegge hvilket sikkerhetsbehov man har i egen løsning, og hvilke tiltak som bør iverksettes. Til sist har teamet et ansvar for å forstå hvordan egne valg kan påvirke sikkerheten i andre løsninger. Teamet har også et ansvar for å forstå risiko man påtar seg ved å ta i bruk andre tjenester.
+ 
+	<br></br>
+	<br></br>
+	- Trykk her for å se hvordan dette ansvaret er brutt ned i forventninger. 
+	<br></br>
+	- Trykk her for veiledning i utførelsen av risikovurderinger. 
+  </div>
+</details>
+
+<details>
+  <summary>
+	Ivareta og opprettholde sikkerheten i egen løsning // <br></br> 
+	<i>Alternativt:</i> Beskytte egne løsninger gjennom å implementere og kontinuerlig vurdere sikkerhetstiltak
+  </summary>
+  <div>
+	Basert på kartleggingen er teamet ansvarlige for å identifisere og implementere nødvendige sikkerhetstiltak. Dette gjelder både rutiner i teamet, men også tekniske sikkerhetstiltak i løsningene.  
+	<br></br>
+	<br></br>
+	Trykk her for å lese hvilke forventninger som stilles til teamet knyttet til å forstå risiko rundt egen løsning. 
+	<br></br>
+	Trykk her for å lese mer om beste praksis innen teknisk sikring av løsningene.
+  </div>
+</details>
+
+<details>
+  <summary>
+	Oppdage og fjerne kjente trusler, sårbarheter og avvik // <br></br> 
+	<i>Alternativt:</i> Oppdage trusler, sårbarheter og avvik i egne løsninger
+  </summary>
+  <div>
+	Teamet er ansvarlig for å avdekke potensielle sårbarheter i egne løsninger. Teamer er også ansvarlig for å oppdage og håndere sikkerhetstruende hendelser og rapportere på avvik
+	<br></br>
+	<br></br>
+	Trykk her for å lese mer om forventningene som stilles til teamet på området.
+  </div>
+</details>
+
+<details>
+  <summary>
+	Øve på og håndtere sikkerhetshendelser, gjenopprette og forbedre sikkerheten // <br></br> 
+	<i>Alternativt:</i> Utarbeide beredskapsplaner for å håndtere sikkerhetshendelser og gjenopprette egne løsninger
+  </summary>
+  <div>
+	Teamet er ansvarlig for å vurdere potensielle scenarioer og sikkerhetstruende hendelser som kan oppstå, og dokumentere hvordan disse skal håndteres gjennom beredskapsplaner. Det er også teamets ansvar å øve på beredskapsplanene.
+ 
+	<br></br>
+	<br></br>
+	Trykk her for å lese mer om hvilke forventninger som stilles til teamet innen beredskap.<br></br>
+	Trykk her for å lese en praktisk veiledning til beredskapsplaner
+  </div>
+</details>
+
+
+:::
+
+
+### Alternativ 2
+
+:::info Som ansvarlig for sikkerheten i egne løsninger, har teamet ansvaret for å:
+
+
+<details>
+  <summary>
+	Sette seg inn i styringsstrukturer og eget sikkerhetsansvar. // Alt: Sette seg inn i eget sikkerhetsansvar og forventningene som stilles til teamet
+  </summary>
+  <div>
+	Teamet har et ansvar for å forstå eget sikkerhetsansvar, og gjeldende styringsstrukturer // Alt: hvilke forventninger som stilles til teamet.
+	<br></br>
+	<br></br>
+ 	- Trykk her for å lese mer om styringsstrukturene i Nav. 
+	<br></br>
+	- Trykk her for å lese mer om forventningene som stilles til teamet. 
+  </div>
+</details>
 
 
 <details>
@@ -68,7 +153,7 @@ Som ansvarlig for sikkerheten i egne løsninger, har teamet ansvaret for å:
 
 <details>
   <summary>
-	Identifisere og etablere nødvendige sikkerhetstiltak 
+	Ivareta og opprettholde sikkerheten i egne løsninger // Alt: Identifisere og etablere nødvendige sikkerhetstiltak 
   </summary>
   <div>
 	Basert på bl.a. risikovurderinger er teamet ansvarlige for å vurdere hvilke sikkerhetstiltak som skal implementeres. Dette gjelder både rutiner i teamet, men også tekniske sikkerhetstiltak. 
@@ -110,20 +195,24 @@ Som ansvarlig for sikkerheten i egne løsninger, har teamet ansvaret for å:
 	Oppdage og håndtere sikkerhetstruende hendelser, og rapportere avvik 
   </summary>
   <div>
-	Content
+	Det er teamets ansvar å oppdage avvik og sikkerhetstruende hendelser i egne løsninger. Alle avvik skal rapporteres i avvikssystemet Asys, mens pågående sikkerhetshendelser skal meldes til ISOC.
+	
+	Trykk her for å lese mer om forventninger til hendelseshåndtering. 
+	Trykk her for å lese praktiske veiledninger til å håndtere hendelser. 
   </div>
 </details>
 
 
 
 
-[**Trykk her**](sikkerhetsansvar/forventninger.md) for å lese hvordan disse punktene er brutt ned i _forventninger_ til teamets sikkerhetspraksis.
-
 :::
 
 
 
-### Utfyllende om den distribuerte sikkerhetsmodellen
+
+
+
+## Utfyllende om den distribuerte sikkerhetsmodellen
 
 Ansvaret for informasjonssikkerheten er distribuert til team og område som er ansvarlig for produktet/tjenesten. Det at ansvaret for informasjonssikkerhet er distribuert følger av autonomien team har i produktutviklingsmodellen. Autonomien betyr at teamene selv, - og til enhver tid, skal vurdere hva som bør gjøres med produkt/tjeneste slik at det både tilfredsstiller brukerforventninger og samfunnsoppdrag.  Ved endringer i teknologisk mulighetsrom, endringer i politiske beslutninger og endringer i brukernes krav/forventninger til produkt/tjeneste skal team tilpasse og utvikle produktet kontinuerlig. Produktets/tjenestens egenskaper er derfor til enhver tid summen av teamets valg og beslutninger. Gitt dette, må også teamene ta ansvar for informasjonssikkerheten.  Det er jo kun teamet som vet hvilke valg og beslutninger som er tatt og som kan vurdere hva som må hensyn tas sikkerhetsmessig. Teamet er med andre ord ansvarlig for informasjonssikkerheten fra A til Å i alle produkt/tjenester til teamet. Det er ingen andre som har dette ansvaret. 
 

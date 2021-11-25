@@ -12,24 +12,25 @@ const FeatureList = [
       </>
     ),
   },
-  {
-    title: 'Vi skal jobbe risikobasert',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+	{
+    title: 'Veiledning til sikkerhetsaktiviteter',
+    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Det å ha kontroll på risikoer i og rundt egen løsning er avgjørende for sikkerheten vår. <a href="docs-risiko/risiko-intro/">Trykk her</a> for å lese mer om hva som forventes av teamet rundt risikostyring.
+        Det at teamene gjennomfører enkelte sikkerhetsaktiviteter er avgjørende for sikkerheten i virksomheten vår. Vi har veiledninger for ulike aktiviteter å styrke sikkerheten i ditt team. <a href="docs-veiledning-aktiviteter/veiledning-aktiviteter-intro/">Trykk her</a> for å få praktisk hjelp til å gjøre løsningen din sikker.
       </>
     ),
   },
   {
     title: 'Det skal være lett å gjøre rett',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Vi har veiledninger for å styrke sikkerheten i ditt team. Det er også mange sikkerhetstjenester som lett kan tas i bruk av teamet. <a href="docs-beste-praksis/beste-praksis-intro/">Trykk her</a> for å få praktisk hjelp til å gjøre løsningen din sikker.
+        Vi har en rekke sikkerhetsfunksjoner og . <a href="docs-risiko/risiko-intro/">Trykk her</a> for å lese mer om hva som forventes av teamet rundt risikostyring.
       </>
     ),
   },
+  
 ];
 
 function Feature({Svg, title, description}) {
