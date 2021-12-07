@@ -1,14 +1,14 @@
 ---
-sidebar_label: 'Risiko- og sårbarhetsvurdering'
+sidebar_label: 'Risikovurderinger'
 sidebar_position: 2
 ---
 
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
-
 
 # Risikovurderinger
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 <img
   src={require('/img/risiko.png').default}
@@ -18,14 +18,6 @@ import TabItem from '@theme/TabItem';
 
 ### Kortversjonen
 
-:::info Risikobasert tilnærming
-
-NAV har en risikobasert tilnærming til sikkerhet. Det betyr at områder/team skal gjøre vurderinger av risikoen knyttet til sine produkter/tjenester, og iverksette tiltak slik at risikoen har et akseptabelt nivå.
-
-Security Playbook har en egen sidesamling som dekker risikostyring og risikovurdering. Trykk her for å se flere detaljer: [Risikostyring og -vurderinger](/docs-risiko/risiko-intro)
-
-:::
-
 
 <details><summary><b>Gjennomføring av risikovurderinger</b></summary>
 	<p>
@@ -34,6 +26,7 @@ Security Playbook har en egen sidesamling som dekker risikostyring og risikovurd
 	</p>
 </details>
 
+<!---
 <details><summary><b>Innføre tiltak for å nå akseptabel risiko</b></summary>
 	<p>
 	<b>Hva</b>: Teamene skal gjennomføre risikovurderinger I TryggNok-applikasjonen. Dette skal gjøres ved endringer i og rundt  produktet/tjenesten. <br></br>

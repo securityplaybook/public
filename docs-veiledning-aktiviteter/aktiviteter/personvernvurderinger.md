@@ -14,12 +14,7 @@ sidebar_position: 3
 
 ### Kortversjonen
 
-:::info Teamets ansvar for personvernvurderinger
 
-Teamet er ansvarlig for å utføre Grunnleggende personvernvurdering (GPA) og vurdering av Personvernkonsekvenser (PVK). 
-Begge disse vurderingene skal dokumenteres i mal og oversende til personvernombudet.
-
-:::
 
 <!---
 

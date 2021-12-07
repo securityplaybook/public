@@ -13,7 +13,7 @@ sidebar_position: 5
 
 ### Kortversjonen
 
-:::info Teamets ansvar for sikkerhetshendelser
+
 
  
 <details><summary>Teamet skal rapportere pågående sikkerhetshendelser/avvik til ISOC.</summary>
@@ -32,7 +32,6 @@ sidebar_position: 5
 	</p>
 </details>
 
-:::
 
 
 ### Utfyllende om håndteringen av sikkerhetshendelser

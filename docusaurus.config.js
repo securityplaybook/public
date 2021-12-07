@@ -84,19 +84,19 @@ const config = {
         items: [
                   {
                 to: '/docs/Intro',    // ./docs/Intro.md
-                label: 'Ansvar og forventninger',
+                label: 'IKKE KLAR: Ansvar og forventninger',
                 position: 'left',
                 activeBaseRegex: `/docs/`,
               },
               {
                 to: '/docs-veiledning-aktiviteter/veiledning-aktiviteter-intro',    // ./docs-hvorfor-sikkerhet/Intro.md
-                label: 'Veiledning: Sikkerhetsaktiviteter',
+                label: 'Veiledninger til sikkerhetsarbeidet',
                 position: 'left',
                 activeBaseRegex: `/docs-veiledning-aktiviteter/`,
               },
               {
-                to: '/docs-beste-praksis/beste-praksis-intro',    // ./docs-hvorfor-sikkerhet/Intro.md
-                label: 'IKKE KLAR: Veiledning: Teknisk sikkerhet',
+                to: 'https://improved-train-2f244007.pages.github.io/',    // ./docs-hvorfor-sikkerhet/Intro.md
+                label: 'Sikker programvareutvikling',
                 position: 'left',
                 activeBaseRegex: `/docs-risiko/`,
               },			  

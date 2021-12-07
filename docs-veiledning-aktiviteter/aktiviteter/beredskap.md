@@ -16,7 +16,7 @@ sidebar_position: 4
 
 ### Kortversjonen
 
-:::info Teamets ansvar for hendelsesvurderinger og beredskap
+
 
 <details><summary>Teamet skal vurdere hvilke hendelser (scenarioer) som kan inntreffe</summary>
 	<p>
@@ -34,16 +34,6 @@ sidebar_position: 4
 	</p>
 </details>
 
-<details><summary>Teamet skal gjennomføre øvelser</summary>
-	<p>
-	<b>Hva</b>: - <br></br>
-	<b>Når</b>: - <br></br>
-	<b>Hvordan</b>: -
-	</p>
-</details>
-
-
-:::
 
 
 

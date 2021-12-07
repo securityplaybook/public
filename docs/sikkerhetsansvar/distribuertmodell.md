@@ -3,7 +3,7 @@ sidebar_label: '⭐ Oversikt ansvarsområder'
 sidebar_position: 1
 ---
 
-# Teamet er ansvarlig for sikkerheten i egne løsninger
+# UNDER ARBEID: Teamet er ansvarlig for sikkerheten i egne løsninger
 
 <img
   src={require('/img/team2.png').default}
@@ -39,10 +39,71 @@ Som ansvarlig for sikkerheten i egne løsninger, har teamet ansvaret for å:
 
 ### Alternativ 1
 
+:::info Som ansvarlig for sikkerheten i egne løsninger, har teamet ansvaret for å :
+
+<details>
+  <summary>
+	Forstå risiko og sikkerhetsbehov i egne løsninger, og forstå gjensidig påvirkning med andre løsninger i Nav 
+  </summary>
+  <div>
+	Teamet er ansvarlige for å løpende ha innsikt i risikobildet i egen løsning, og håndteringen av risiko som avdekkes. Teamet er også ansvarlig for å kartlegge hvilket sikkerhetsbehov man har i egen løsning, og hvilke tiltak som bør iverksettes. Til sist har teamet et ansvar for å forstå hvordan egne valg kan påvirke sikkerheten i andre løsninger. Teamet har også et ansvar for å forstå risiko man påtar seg ved å ta i bruk andre tjenester.
+	<br></br>
+	<br></br>
+	- Trykk her for å se hvordan dette ansvaret er brutt ned i forventninger. 
+	<br></br>
+	- Trykk her for veiledning i utførelsen av risikovurderinger. 
+  </div>
+</details>
+
+<details>
+  <summary>
+	Beskytte egne løsninger gjennom å implementere og kontinuerlig vurdere sikkerhetstiltak
+  </summary>
+  <div>
+	Basert på kartleggingen er teamet ansvarlige for å identifisere og implementere nødvendige sikkerhetstiltak. Dette gjelder både rutiner i teamet, men også tekniske sikkerhetstiltak i løsningene.  
+	<br></br>
+	<br></br>
+	Trykk her for å lese hvilke forventninger som stilles til teamet knyttet til å forstå risiko rundt egen løsning. 
+	<br></br>
+	Trykk her for å lese mer om beste praksis innen teknisk sikring av løsningene.
+  </div>
+</details>
+
+<details>
+  <summary>
+	Oppdage trusler, sårbarheter og avvik i egne løsninger
+  </summary>
+  <div>
+	Teamet er ansvarlig for å avdekke potensielle sårbarheter i egne løsninger. Teamer er også ansvarlig for å oppdage og håndere sikkerhetstruende hendelser og rapportere på avvik
+	<br></br>
+	<br></br>
+	Trykk her for å lese mer om forventningene som stilles til teamet på området.
+  </div>
+</details>
+
+<details>
+  <summary>
+	Håndtere sikkerhetshendelser og gjenopprette egne løsninger
+  </summary>
+  <div>
+	Teamet er ansvarlig for å vurdere potensielle scenarioer og sikkerhetstruende hendelser som kan oppstå, og dokumentere hvordan disse skal håndteres gjennom beredskapsplaner. Det er også teamets ansvar å øve på beredskapsplanene.
+ 
+	<br></br>
+	<br></br>
+	Trykk her for å lese mer om hvilke forventninger som stilles til teamet innen beredskap.<br></br>
+	Trykk her for å lese en praktisk veiledning til beredskapsplaner
+  </div>
+</details>
+
+
+:::
+
+
+<!--<details>
 :::info Som ansvarlig for sikkerheten i egne løsninger, har teamet ansvaret for å:
 
 
-<details>
+
   <summary>
 	Kartlegge risiko og sikkerhetsbehov i egne løsninger, og forstå gjensidig påvirkning med andre løsninger i Nav // <br></br>  
 	<i>Alternativt:</i> Opparbeide og forvalte forståelse om egen løsning og hvordan denne påvirker, og påvirkes av, andre forhold, tjenester og leveranser
@@ -103,6 +164,9 @@ Som ansvarlig for sikkerheten i egne løsninger, har teamet ansvaret for å:
 
 
 :::
+
+--->
+
 
 
 ### Alternativ 2
