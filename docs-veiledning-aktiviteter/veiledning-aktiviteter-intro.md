@@ -6,7 +6,7 @@ sidebar_position: 1
 # Arbeid med informasjonssikkerhet
 
 <img
-  src={require('/img/team.png').default}
+  src={require('/img/team2.png').default}
   alt="Example banner"
   width="500"
 />
