@@ -15,7 +15,7 @@ sidebar_position: 1
 
 :::warning &nbsp; 
 
-Teamet har ansvar for informasjonssikkerheten i egne løsninger. [Klikk her for å lese mer om teamets ansvar.](/docs/sikkerhetsansvar/forventninger) Som følge av dette ansvaret skal teamet utføre følgende aktiviteter (listen er ikke uttømmende):
+Teamet har ansvar for informasjonssikkerheten i egne løsninger. [Klikk her for å lese mer om teamets ansvar.](/docs/sikkerhetsansvar/forventninger) Som følge av dette ansvaret **skal teamet utføre** følgende aktiviteter (listen er ikke uttømmende):
 
 :::
 
@@ -56,7 +56,9 @@ Teamet har ansvar for informasjonssikkerheten i egne løsninger. [Klikk her for 
 			<td><b>Etablere tiltak og eskalere eller akseptere restrisiko</b></td>
 			<td>
 				<ul>
-					<li>Alle risikovurderinger avsluttes med at de tiltakene man har besluttet blir etablert og at restrisiko aksepteres av teamet eller eskaleres til riktig nivå for beslutning</li> 
+					<li>Tiltak etableres så snart som mulig</li>
+					<li>Dersom nødvendig må eskalering til riktig nivå skje umiddelbart</li>
+					<li>Aksept kan skje når restrisiko er akseptabel</li> 
 				</ul>
 			</td>
 			<td><a href="https://navno.sharepoint.com/:w:/s/SprintRisikostyringFyrstikkalleen/ESPr6UjSXd1NlmM9gAja728BxamxBTch8igljCA7rHwu6Q?e=pjzgMZ">Se denne lenken for veiledninger til risikovurderinger på Navet</a></td>
@@ -81,9 +83,9 @@ Teamet har ansvar for informasjonssikkerheten i egne løsninger. [Klikk her for 
 		<tr>
 			<td><b>Lage oppfølgingsrutiner for å håndtere potensielle sikkerhetssituasjoner og hendelser</b></td>
 			<td><ul><li>Oppfølgingsrutiner opprettes når løsningen etableres, og oppdateres ved endringer </li></ul></td>
-			<td> </td>
-			<td> </td>
-			<td> </td>
+			<td> Ikke beskrevet </td>
+			<td> Ikke beskrevet </td>
+			<td> Ikke beskrevet </td>
 		</tr>
 		
 		<tr>
