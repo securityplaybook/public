@@ -15,8 +15,7 @@ sidebar_position: 1
 
 :::warning &nbsp; 
 
-Teamet har ansvar for informasjonssikkerheten i egne løsninger. Klikk her for å lese mer om teamets ansvar. Som følge av dette ansvaret skal teamet utføre følgende aktiviteter (listen er ikke uttømmende):
-
+Teamet har ansvar for informasjonssikkerheten i egne løsninger. [Klikk her for å lese mer om teamets ansvar.](/docs/sikkerhetsansvar/forventninger) Som følge av dette ansvaret skal teamet utføre følgende aktiviteter (listen er ikke uttømmende):
 
 :::
 
@@ -41,40 +40,86 @@ Teamet har ansvar for informasjonssikkerheten i egne løsninger. Klikk her for �
 </tfoot>
 	<tbody>
 		<tr>
-			<td><b>Gjennomf&oslash;re risikovurderinger av egen&nbsp; l&oslash;sning i TryggNok</b></td>
-			<td>Alle team skal gj&oslash;re risikovurderinger av egen l&oslash;sning. Risikovurdering oppdateres ved endringer i og rundt&nbsp; produktet/tjenesten.</td>
+			<td><b>Gjennomføre risikovurderinger av egne løsninger i TryggNok</b></td>
+			<td>
+				<ul>
+					<li>Alle team skal gjøre risikovurderinger av egen løsning ved oppstart / etablering. <br></br> </li>
+					<li>Risikovurdering oppdateres ved endringer som kan påvirke risikoen i løsningen <br></br></li>
+				</ul>
+			</td>
 			<td><a href="https://navno.sharepoint.com/:w:/s/SprintRisikostyringFyrstikkalleen/ESPr6UjSXd1NlmM9gAja728BxamxBTch8igljCA7rHwu6Q?e=pjzgMZ">Se denne lenken for veiledninger til risikovurderinger på Navet</a></td>
 			<td>Underside for risikovurderinger</td>
 			<td>Slack: <a href="https://nav-it.slack.com/archives/GR0A0JJRH">team_tillit</a></td>
 		</tr>
+		
 		<tr>
-			<td><b>Etablere tiltak og akseptere restrisiko</b></td>
-			<td> </td>
-			<td> </td>
-			<td> </td>
-			<td> </td>
+			<td><b>Etablere tiltak og eskalere eller akseptere restrisiko</b></td>
+			<td>
+				<ul>
+					<li>Alle risikovurderinger avsluttes med at de tiltakene man har besluttet blir etablert og at restrisiko aksepteres av teamet eller eskaleres til riktig nivå for beslutning</li> 
+				</ul>
+			</td>
+			<td><a href="https://navno.sharepoint.com/:w:/s/SprintRisikostyringFyrstikkalleen/ESPr6UjSXd1NlmM9gAja728BxamxBTch8igljCA7rHwu6Q?e=pjzgMZ">Se denne lenken for veiledninger til risikovurderinger på Navet</a></td>
+			<td>Underside for risikovurderinger </td>
+			<td>Slack: <a href="https://nav-it.slack.com/archives/GR0A0JJRH">team_tillit</a> </td>
 		</tr>
+		
 		<tr>
 			<td><b>Gjennomføre personvernvurderinger (GPA/PVK*) av egen  løsning </b></td>
-			<td>Alle team skal gjøre en Grunnleggende personvernavklaring(GPA) av egen løsning. Dersom GPA avdekker behov for en vurdering av Personvernkonsekvenser (PVK) skal en PVK gjennomføres. GPA og/eller PVK oppdateres ved endringer i løsningen dersom endringene påvirker persondata.</td>
+			<td><br></br>
+				<ul>
+					<li>Alle team skal gjøre en Grunnleggende personvernavklaring(GPA) av egen løsning.<br></br> </li>
+					<li>Dersom GPA avdekker behov for en vurdering av Personvernkonsekvenser (PVK) skal en PVK gjennomføres. <br></br></li>
+					<li>GPA og/eller PVK oppdateres ved endringer i løsningen dersom endringene påvirker persondata.</li>
+				</ul>
+			</td>
 			<td><a href="https://navno.sharepoint.com/sites/intranett-personvern/SitePages/PVK.aspx">Se denne lenken for veiledninger til «Personvernkonsekvenser (PVK og GPA)»</a> </td>
 			<td>Underside for personvernvurderinger</td>
-			<td>E-post til :  pvk@nav.no</td>
+			<td>E-post til:  pvk@nav.no</td>
 		</tr>
+		
 		<tr>
 			<td><b>Lage oppfølgingsrutiner for å håndtere potensielle sikkerhetssituasjoner og hendelser</b></td>
-			<td> </td>
+			<td><ul><li>Oppfølgingsrutiner opprettes når løsningen etableres, og oppdateres ved endringer </li></ul></td>
 			<td> </td>
 			<td> </td>
 			<td> </td>
 		</tr>
+		
 		<tr>
-			<td><b>Reagere på og følge opp akutte sikkerhetshendelser og avvik</b></td>
-			<td>Ved uforutsette hendelser, eller ved varsel om potensielle trussler. Følge opp og rapportere sikkerhetshendelser/avvik til ISOC. Avvik meldes i det elektroniske avvikssystemet  ASYS. Akutte hendelser og avvik skal rapporteres tjenestevei.</td>
-			<td><a href="https://navno.sharepoint.com/sites/intranett-sikkerhet/SitePages/Beredskap-i-NAV.aspx">Se denne lenken «Sikkerhet og beredskap»</a></td>
+			<td><b>Håndtering av pågående sikkerhetshendelser</b></td>
+			<td>
+				<ul>
+					<li>Ved avdekkelse eller mistanke om pågående sikkerhetshendelse.</li>
+				</ul>
+				</td>
+			<td>
+				<ul>
+					<li>Rapportere sikkerhetshendelsen til ISOC.</li> 
+					<li>Rapportere sikkerhetshendelsen tjenestevei.</li>
+					<li><a href="https://navno.sharepoint.com/sites/intranett-sikkerhet/SitePages/Beredskap-i-NAV.aspx">Se denne lenken «Sikkerhet og beredskap»</a></li>
+				</ul>
+			</td>
 			<td>Underside for sikkerhetshendelser</td>
-			<td>E-post til sikkerhetsseksjonen ved  christopher.bach@nav.no</td>
+			<td>E-post til sikkerhetsseksjonen ved nav.sikkerhetsseksjonen@nav.no </td>
 		</tr>	
+		
+		<tr>
+			<td><b>Følge opp lukkede sikkerhetshendelser og andre avvik</b></td>
+			<td>
+				<ul>
+					<li>Når teamet oppdager mulige avvik fra etatens egne sikkerhetsføringer, lover og forskrifter som vi er pålagt å følge</li>
+				</ul>
+				</td>
+			<td>
+				<ul>
+					<li>Avvik meldes i det elektroniske avvikssystemet  ASYS</li> 
+					<li><a href="https://navno.sharepoint.com/sites/intranett-sikkerhet/SitePages/Beredskap-i-NAV.aspx">Se denne lenken «Sikkerhet og beredskap»</a></li>
+				</ul>
+			</td>
+			<td>Underside for sikkerhetshendelser</td>
+			<td>E-post til sikkerhetsseksjonen ved nav.sikkerhetsseksjonen@nav.no </td>
+		</tr>
 	</tbody>
 </table>
 

@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'DEMOVERSJON: Security Playbook',
-  tagline: 'Her finner du hjelp og støtte til å lage sikre løsninger',
+  tagline: 'Her finner du hjelp til å utvikle sikre løsninger',
   url: 'https://securityplaybook.github.io',
   baseUrl: '/public/',
   onBrokenLinks: 'warn',
@@ -84,7 +84,7 @@ const config = {
         items: [
                   {
                 to: '/docs/Intro',    // ./docs/Intro.md
-                label: 'IKKE KLAR: Ansvar og forventninger',
+                label: 'Forventninger til teamet',
                 position: 'left',
                 activeBaseRegex: `/docs/`,
               },
@@ -96,14 +96,14 @@ const config = {
               },
               {
                 to: 'https://improved-train-2f244007.pages.github.io/',    // ./docs-hvorfor-sikkerhet/Intro.md
-                label: 'Sikker programvareutvikling',
+                label: 'Sikker programvareutvikling (krever Github-pålogging)',
                 position: 'left',
                 activeBaseRegex: `/docs-risiko/`,
               },			  
-          {to: '/blog', label: 'IKKE KLAR: Kontaktliste sikkerhet', position: 'left'},
+          {to: '/blog', label: ' ', position: 'left'},
               {
                 to: '/docs-risiko/risiko-intro',    // ./docs-hvorfor-sikkerhet/Intro.md
-                label: 'IKKE KLAR: Risiko (til opprydding)',
+                label: ' ',
                 position: 'left',
                 activeBaseRegex: `/docs-risiko/`,
               },

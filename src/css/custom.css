@@ -28,9 +28,9 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 }
 
 table.redTable {
-  border: 2px solid #A40808;
+  border: 2px solid #C30000;
   background-color: #F1F1F1;
-  width: 100%;
+  width: 140%;
   text-align: left;
   border-collapse: collapse;
 }
@@ -39,17 +39,17 @@ table.redTable td, table.redTable th {
   padding: 3px 10px;
 }
 table.redTable tbody td {
-  font-size: 12px;
+  font-size: 14px;
 }
 table.redTable thead {
-  background: #A40808;
+  background: #C30000;
 }
 table.redTable thead th {
   font-size: 19px;
   font-weight: bold;
   color: #FFFFFF;
   text-align: left;
-  border-left: 2px solid #A40808;
+  border-left: 2px solid #FFFFFF;
 }
 table.redTable thead th:first-child {
   border-left: none;
@@ -59,7 +59,7 @@ table.redTable tfoot {
   font-size: 13px;
   font-weight: bold;
   color: #FFFFFF;
-  background: #A40808;
+  background: #C30000;
 }
 table.redTable tfoot td {
   font-size: 13px;
@@ -70,7 +70,7 @@ table.redTable tfoot .links {
 table.redTable tfoot .links a{
   display: inline-block;
   background: #FFFFFF;
-  color: #A40808;
+  color: #C30000;
   padding: 2px 8px;
   border-radius: 5px;
 }

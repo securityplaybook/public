@@ -1,16 +1,12 @@
 ---
-sidebar_label: '⭐ Introduksjon'
+sidebar_label: 'Introduksjon'
 sidebar_position: 1
 ---
 
 # Teamet er ansvarlig for informasjonsikkerheten i egne løsninger
 
+Teamet er ansvarlig for at egne produkter og tjenester utvikles og forvaltes på en sikker måte, og i henhold til styringssystemet til NAV. Security Playbook har samlet den viktigste informasjonen om hva dette betyr, og hva teamet må eller bør gjøre. Under vises noen viktige lenker. 
 
-### Informasjonssikkerhetsarbeidet er distribuert
-
-Teamet er ansvarlig for at egne produkter og tjenester utvikles og forvaltes på en sikker måte, og i henhold til styringssystemet til NAV. Security Playbook har samlet den viktigste informasjonen om **hva dette betyr**, og hva teamet må være **bevisste på**. 
-
-- [Trykk her for å lese mer om hva som inngår i sikkerhetsansvaret](sikkerhetsansvar/distribuertmodell.md)
 - [Vi har brutt ned sikkerhetsansvaret i konkrete forventninger til teamet](sikkerhetsansvar/forventninger.md)
 
 Om du vil gå rett videre til hva teamet konkret **må gjøre**, har vi egne sider for veiledninger : 

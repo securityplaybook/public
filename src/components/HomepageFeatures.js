@@ -4,29 +4,29 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Sikkerhet er teamets ansvar',
+    title: 'Forstå teamets sikkerhetsansvar',
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Teamet er selv ansvarlig for sikkerheten i sin egen løsning. <a href="docs/intro/">Trykk her</a> for å lese mer om ansvaret teamet har innenfor sikkerhet, og hvilke forventninger som stilles til deg.
+        Teamet er selv ansvarlig for sikkerheten i sin egen løsning. <a href="docs/intro/">Trykk her</a> for å lese mer om dette ansvaret, og hvilke forventninger som stilles til teamet.
       </>
     ),
   },
 	{
-    title: 'Veiledning til sikkerhetsaktiviteter',
+    title: 'Veiledning til sikkerhetsarbeidet',
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Det at teamene gjennomfører enkelte sikkerhetsaktiviteter er avgjørende for sikkerheten i virksomheten vår. Vi har veiledninger for ulike aktiviteter å styrke sikkerheten i ditt team. <a href="docs-veiledning-aktiviteter/veiledning-aktiviteter-intro/">Trykk her</a> for å få praktisk hjelp til å gjøre løsningen din sikker.
+        Det er utarbeidet veiledninger til hvordan teamet kan ivareta sikkerhetsansvaret. <a href="docs-veiledning-aktiviteter/veiledning-aktiviteter-intro/">Trykk her</a> for å se hva teamet ditt må gjøre, og hvordan.
       </>
     ),
   },
   {
-    title: 'Det skal være lett å gjøre rett',
+    title: 'Hjelp til sikker programvareutvikling',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Vi har en rekke sikkerhetsfunksjoner og . <a href="docs-risiko/risiko-intro/">Trykk her</a> for å lese mer om hva som forventes av teamet rundt risikostyring.
+        Security Champions-miljøet har utviklet praktiske veiledninger til hvordan du kan sette opp sikre løsninger. <a href="https://improved-train-2f244007.pages.github.io/">Trykk her</a> for å få hjelp til hvordan man utvikler sikker software.
       </>
     ),
   },

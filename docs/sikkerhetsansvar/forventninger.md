@@ -1,114 +1,73 @@
 ---
-sidebar_label: '⭐ Forventninger'
+sidebar_label: 'Eksempel på presentasjon av forventninger'
 sidebar_position: 2
 ---
 
-# [Utdatert per 25.11] Forventninger til teamets sikkerhetspraksis
+# Eksempel på presentasjon av forventninger
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-<!--- <details><summary><b>Ansvar: Å identifisere og implementere nødvendige sikkerhetstiltak i egen løsning.</b></summary>
-	<p>
-	<b>Forventninger</b>: Teamene skal gjennomføre risikovurderinger I TryggNok-applikasjonen. Dette skal gjøres ved endringer i og rundt  produktet/tjenesten. <br></br>
-	<b>Hvordan</b>: Se veiledning til TryggNok-applikasjonen i denne lenken. Se veiledning til risikovurderinger på siden for Risikovurderinger. Se eksempelvurdering her. Ved spørsmål, ta kontakt med Team Tillit her <br></br>
-	</p>
-</details> --->
+Denne siden viser noen eksempler på hvordan en kan legge frem forventningene (til internt bruk i kjerneteamet). Under har vi lagt inn eksempler fra råmaterialet fra vårens arbeid. 
 
-Siden teamets sikkerhetsansvar er omfattende har vi tydeliggjort ansvaret i form av forventningene som presenteres under. 
 
-### Teamet skal identifisere og implementere nødvendige sikringstiltak
+### Risikostyring og sikkerhetsbeslutninger 
 
-:::note Det forventes derfor at teamet:
+:::note Det forventes at:
 
-<img
-  src={require('/img/team2.png').default}
-  alt="Example banner"
-  width="200"
-/>
+<details>
+  <summary>
+	Teamet skal ha et bevisst forhold til risiko til enhver tid
+  </summary>
+  <div>
+	Team skal utføre risikovurdering ved bruk av tryggNok under etablering av ny tjeneste/applikasjon, ved større endringer eller for eksisterende tjenester/applikasjoner som mangler risikovurdering. <a href="docs-veiledning-aktiviteter/veiledning-aktiviteter-intro/">Se denne siden for mer informasjon</a>
+  </div>
+</details>
 
-- Har et kontinuerlig fokus på sikkerheten i egen løsning
-- Bidrar med kontinuerlig forbedring av sikkerheten i eget og andres team gjennom å dele erfaringer og løsninger
-- Benytter gjenbrukbare sikkerhetsverktøy/ funksjonalitet
-- Automation first - utrede mulighet for å gjøre sikkerhetsarbeid automatisk.
+<details>
+  <summary>
+	Teamet kommuniserer risiko videre når en produserer en tjeneste (som andre konsumerer)
+  </summary>
+  <div>
+	Teamet skal sette andre i stand til å forstå hvilken risiko man påtar seg ved å ta i bruk en løsning.  
+  </div>
+</details>
 
-<!---
-<Tabs>
-  <TabItem value="Har et kontinuerlig fokus på sikkerheten" label="Har et kontinuerlig fokus på sikkerheten" default>
-    This is an apple 🍎
-  </TabItem>
-  <TabItem value="orange" label="Orange">
-    This is an orange 🍊
-  </TabItem>
-  <TabItem value="banana" label="Banana">
-    This is a banana 🍌
-  </TabItem>
-</Tabs>
---->
+<details>
+  <summary>
+	[Neste forventning]
+  </summary>
+  <div>
+	Nærmere beskriverlse av forventningen. 
+  </div>
+</details>
+
 
 :::
 
+### Sikkerhetsfunksjonalitet og plattform
 
+:::note Det forventes at:
 
+<details>
+  <summary>
+	Golden path first - Teamet skal primært bruke de etablerte sikkerhetstjenestene i NAV
+  </summary>
+  <div>
+	Teamet skal benytte seg av plattformstjenestene og etablerte sikkerhetstjenester så langt det er mulig. Hvor mulig skal det brukes gjenbrukbare sikkerhetsverktøy og -funksjonalitet. 
+  </div>
+</details>
 
+<details>
+  <summary>
+	Automation first - I alt sikkerhetsarbeid så skal man utrede muligheten for å gjøre det automatisk
+  </summary>
+  <div>
+	Vi bør tilstrebe å gjøre sikkerhetsarbeidet så automatisk som mulig, og minimere mengden manuelt arbeid for å ivareta nødvendig sikkerhet. 
+  </div>
+</details>
 
-### Innsikt i risiko i egen løsning
-
-:::note Forventninger til teamet:
-
-<img
-  src={require('/img/risiko.png').default}
-  alt="Example banner"
-  width="200"
-/>
-
-- Teamet har løpende et bevisst forhold til risiko i egen løsning
-- Utfører og dokumenterer risikovurderinger ved hjelp av TryggNok og etablert metodikk
-- Teamet innfører tiltak dersom risiko er utenfor risikoaksept
-- Teamet eskalerer uakseptabel risiko
 
 :::
 
-### Personvern i egen løsning 
-
-:::note Forventninger til teamet:
-
-<img
-  src={require('/img/personvern.png').default}
-  alt="Example banner"
-  width="200"
-/>
-
-- Teamet skal gjennomføre personvernvurderinger regelmessig
-
-:::
-
-### Besitte nødvendig sikkerhetskompetanse
-
-:::note Forventninger til teamet:
-
-<img
-  src={require('/img/beredskap.png').default}
-  alt="Example banner"
-  width="150"
-/>
-
-- Teamet skal være kjent med eget behov for sikkerhetskompetanse, og sikre tilgang til nødvendig sikkerhetskompetanse
-- Å bidra med kontinuerlig forbedring av sikkerheten i eget og andres team gjennom å dele erfaringer og løsninger
-
-:::
-
-### Beredskap og hendelseshåndtering for egen løsning
-
-:::note Forventninger til teamet:
-
-<img
-  src={require('/img/hendelse.png').default}
-  alt="Example banner"
-  height="100"
-/>
-
-- Teamet skal være kjent med eget behov for sikkerhetskompetanse, og sikre tilgang til nødvendig sikkerhetskompetanse
-- Å bidra med kontinuerlig forbedring av sikkerheten i eget og andres team gjennom å dele erfaringer og løsninger
-
-:::
+### "Kategori" X 
