@@ -10,7 +10,43 @@ import TabItem from '@theme/TabItem';
 
 Denne siden viser noen eksempler på hvordan en kan legge frem forventningene (til internt bruk i kjerneteamet). Under har vi lagt inn eksempler fra råmaterialet fra vårens arbeid. 
 
+## Risikostyring og sikkerhetsbeslutninger 
 
+<details>
+  <summary>
+	<h4>Teamet skal dokumentere risiko i TryggNok</h4>
+  </summary>
+  <div>
+	Teamet skal gjøre risikovurderinger av egne løsninger i TryggNok. Risikovurderinger skal gjøres ved oppstart / etablering av løsning, og oppdateres ved endringer som kan påvirke risikoen i løsningen. <a href="docs-veiledning-aktiviteter/veiledning-aktiviteter-intro/">Se denne siden for mer informasjon</a>
+  </div>
+</details>
+
+<details>
+  <summary>
+	<h4>Teamet skal ha et bevisst forhold til risiko i egen løsning</h4>
+  </summary>
+  <div>
+	<Tabs>
+	  <TabItem value="Hva" label="Hva forventes" default>
+		Team skal løpende være bevisste på risiko i egen løsning.  
+	  </TabItem>
+	  <TabItem value="Hvorfor" label="Hvorfor">
+		[Forklaring til hvorfor risikovurderinger er viktige]
+	  </TabItem>
+	  <TabItem value="Hvordan" label="Hvordan ">
+		Teamet skal gjøre risikovurderinger av egne løsninger i TryggNok. Risikovurderinger skal gjøres ved oppstart / etablering av løsning, og oppdateres ved endringer som kan påvirke risikoen i løsningen. <a href="docs-veiledning-aktiviteter/veiledning-aktiviteter-intro/">Se denne siden for mer informasjon</a>
+	  </TabItem>
+	</Tabs>
+  </div>
+</details>
+
+
+
+
+
+
+
+<!---
 ### Risikostyring og sikkerhetsbeslutninger 
 
 :::note Det forventes at:
@@ -71,3 +107,6 @@ Denne siden viser noen eksempler på hvordan en kan legge frem forventningene (t
 :::
 
 ### "Kategori" X 
+
+
+--->
