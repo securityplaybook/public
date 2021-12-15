@@ -15,7 +15,7 @@ sidebar_position: 1
 
 :::warning &nbsp; 
 
-Teamet har ansvar for informasjonssikkerheten i egne løsninger. [Klikk her for å lese mer om teamets ansvar.](/docs/sikkerhetsansvar/forventninger) Som følge av dette ansvaret **skal teamet utføre** følgende aktiviteter (listen er ikke uttømmende):
+Teamet har ansvar for informasjonssikkerheten i egne løsninger. [Klikk her for å lese mer om teamets ansvar.](/docs/sikkerhetsansvar/forventninger) Som følge av dette ansvaret **skal teamet utføre** følgende aktiviteter (listen er ikke uttømmende):.
 
 :::
 
@@ -49,7 +49,7 @@ Teamet har ansvar for informasjonssikkerheten i egne løsninger. [Klikk her for 
 			</td>
 			<td><a href="https://navno.sharepoint.com/:w:/s/SprintRisikostyringFyrstikkalleen/ESPr6UjSXd1NlmM9gAja728BxamxBTch8igljCA7rHwu6Q?e=pjzgMZ">Se denne lenken for veiledninger til risikovurderinger på Navet</a></td>
 			<td>Underside for risikovurderinger</td>
-			<td>Slack: <a href="https://nav-it.slack.com/archives/GR0A0JJRH">team_tillit</a></td>
+			<td>Slack: <a href="https://nav-it.slack.com/archives/GR0A0JJRH">#team_tillit</a></td>
 		</tr>
 		
 		<tr>
@@ -63,7 +63,7 @@ Teamet har ansvar for informasjonssikkerheten i egne løsninger. [Klikk her for 
 			</td>
 			<td><a href="https://navno.sharepoint.com/:w:/s/SprintRisikostyringFyrstikkalleen/ESPr6UjSXd1NlmM9gAja728BxamxBTch8igljCA7rHwu6Q?e=pjzgMZ">Se denne lenken for veiledninger til risikovurderinger på Navet</a></td>
 			<td>Underside for risikovurderinger </td>
-			<td>Slack: <a href="https://nav-it.slack.com/archives/GR0A0JJRH">team_tillit</a> </td>
+			<td>Slack: <a href="https://nav-it.slack.com/archives/GR0A0JJRH">#team_tillit</a> </td>
 		</tr>
 		
 		<tr>
