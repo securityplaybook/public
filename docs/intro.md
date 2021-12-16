@@ -16,8 +16,8 @@ Om du vil gå rett videre til hva teamet konkret **må gjøre**, har vi egne sid
 Sammenhengene mellom ansvar, forventninger og aktiviteter er illustrert under. 
 
 <img
-  src={require('/img/three2.jpg').default}
+  src={require('/img/ansvar.png').default}
   alt="Example banner"
-  width="900"
+  width="700"
 />
 

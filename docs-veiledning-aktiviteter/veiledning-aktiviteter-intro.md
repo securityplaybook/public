@@ -15,7 +15,7 @@ sidebar_position: 1
 
 :::warning &nbsp; 
 
-Teamet har ansvar for informasjonssikkerheten i egne løsninger. [Klikk her for å lese mer om teamets ansvar.](/docs/sikkerhetsansvar/forventninger) Som følge av dette ansvaret **skal teamet utføre** følgende aktiviteter (listen er ikke uttømmende):.
+Teamet har ansvar for informasjonssikkerheten i egne løsninger. [Klikk her for å lese mer om teamets ansvar.](/docs/intro) Som følge av dette ansvaret **skal teamet utføre** følgende aktiviteter (listen er ikke uttømmende):.
 
 :::
 
@@ -107,7 +107,7 @@ Teamet har ansvar for informasjonssikkerheten i egne løsninger. [Klikk her for 
 		</tr>	
 		
 		<tr>
-			<td><b>Følge opp lukkede sikkerhetshendelser og andre avvik</b></td>
+			<td><b>Rapportere på avvik // Evt: Rapportere på avvik og avsluttede sikkerhetshendelser</b></td>
 			<td>
 				<ul>
 					<li>Når teamet oppdager mulige avvik fra etatens egne sikkerhetsføringer, lover og forskrifter som vi er pålagt å følge</li>
