@@ -40,7 +40,7 @@ table.redTable td, table.redTable th {
 }
 table.redTable tbody td {
   font-size: 14px;
-  color: #C0C0C0;
+  /*color: #C0C0C0;*/
 }
 table.redTable thead {
   background: #C30000;
@@ -75,7 +75,9 @@ table.redTable tfoot .links a{
   padding: 2px 8px;
   border-radius: 5px;
 }
+/* 
 table.redTable tbody tr:first-child td {
     background-color: #f1d8d4;
 	color: #000000;
 }
+*/
