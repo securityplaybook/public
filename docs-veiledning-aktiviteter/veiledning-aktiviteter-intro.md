@@ -15,7 +15,7 @@ sidebar_position: 1
 
 :::warning &nbsp; 
 
-Teamet har ansvar for informasjonssikkerheten i egne løsninger. [Klikk her for å lese mer om teamets ansvar.](/docs/intro) Som følge av dette ansvaret **skal teamet utføre** følgende aktiviteter (listen er ikke uttømmende):.
+Teamet har ansvar for informasjonssikkerheten i egne løsninger. [Klikk her for å lese mer om teamets ansvar.](/docs/intro) Som følge av dette ansvaret **skal teamet utføre** følgende aktiviteter:
 
 :::
 
