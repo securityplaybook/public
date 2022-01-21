@@ -76,7 +76,7 @@ table.redTable tfoot .links a{
   border-radius: 5px;
 }
 
-table.redTable tbody tr:first-child td {
+/*table.redTable tbody tr:first-child td {
     background-color: #f1d8d4;
 	color: #000000;
-}
+}*/
